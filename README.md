@@ -3,7 +3,7 @@ Foxycle
 
 ## Instructions for running this application:
 
-1. run `git clone git@github.com:CSC307Winter2019/Group3.git`
+1. run `git clone https://github.com/gwayne9955/FoxCycle.git`
 
 2. navigate to that newly created directory
 
